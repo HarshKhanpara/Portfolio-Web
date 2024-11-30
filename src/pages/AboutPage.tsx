@@ -28,9 +28,7 @@ export function AboutPage() {
               About Me
             </h2>
             <p className="text-lg leading-relaxed mb-12 text-white/80">
-              I'm a passionate software engineer with over 5 years of experience in building scalable applications.
-              I specialize in full-stack development with a focus on creating elegant, user-centric solutions
-              that solve real-world problems.
+            Hello, I’m Harsh Khanpara, a passionate B.Tech (CSE-AIDS) student at MIT World Peace University, Pune (CGPA: 9.2). I specialize in web development, machine learning, and AI-driven solutions, with hands-on experience in full-stack engineering and deep learning projects. During my internships, I’ve contributed to innovative platforms, including an AI-powered mock interview system and a marketplace for homestays, emphasizing security, scalability, and performance. My academic projects reflect my dedication to leveraging cutting-edge technologies like Generative AI, LLMs, and computer vision to solve real-world problems. With strong programming skills in Python, JavaScript, and C++, I’ve mastered tools and frameworks such as PyTorch, TensorFlow, Next.js, and Docker. Additionally, I’m adept at managing cloud deployments and ensuring robust system design. I'm also actively enhancing my skills in Reinforcement Learning and Full Stack Development. Having solved over 400+ DSA problems across platforms and contributed as a hackathon finalist, I bring a mix of problem-solving, innovation, and teamwork. Looking forward to leveraging my skills to create impactful solutions in the tech landscape!
             </p>
           </motion.div>
 
