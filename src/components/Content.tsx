@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { ArrowRight, ChevronDown } from 'lucide-react';
 import { useLocation } from 'wouter';
 import { Typewriter } from 'react-simple-typewriter';
+import { ResumeButton } from './ResumeButton';
 
 export function Content() {
   const [, setLocation] = useLocation();
@@ -80,6 +81,7 @@ export function Content() {
             Let&apos;s Talk
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </button>
+          <ResumeButton />
         </motion.div>
       </motion.div>
 
