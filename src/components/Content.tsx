@@ -41,7 +41,7 @@ export function Content() {
       >
         {/* Header with Gradient Text */}
         <motion.div variants={itemVariants}>
-          <h2 className="text-5xl md:text-7xl font-extrabold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-purple-500">
+          <h2 className="text-4xl md:text-7xl font-extrabold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-purple-500">
             <Typewriter
               words={['Software Engineer', 'Data Scientist', 'Problem Solver']}
               loop={0}
